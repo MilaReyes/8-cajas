@@ -1,0 +1,25 @@
+div{
+	background-color: grey;
+	width:100px;
+	height:100px;
+	margin-top:20px;
+	border: 1px solid black;
+}
+.rectangulo{
+	background-color: grey;
+	width: 330px;
+	height: 110px;
+	margin-top:20px;
+	border:1px solid black;
+}
+.cajalateral{
+	display:inline-block;
+	margin-right:10px;
+}
+.inside{
+	width:95px;
+	height:95px;
+	border:1px solid black;
+	margin:5px;
+	display:inline-block;
+}
